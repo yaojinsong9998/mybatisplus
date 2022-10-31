@@ -13,4 +13,6 @@
     <select id="selectPageVo" resultType="com.atguigu.mybatisplus.pojo.User">
         select uid,user_name,age,email from t_user where age > #{age} and is_deleted = 0
     </select>
+
+
 </mapper>
