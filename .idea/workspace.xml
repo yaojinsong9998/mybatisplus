@@ -20,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2GqMuNOFyuwFL10Z8oksphqBj89" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +34,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -46,7 +54,7 @@
       <recent name="com.atguigu.mybatisplus" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyBatisPlusPluginsTest.test">
+  <component name="RunManager" selected="JUnit.MybatisPlusDatabaseApplicationTests.test">
     <configuration name="FastAutoGeneratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.FastAutoGeneratorTest" />
       <module name="mybatisplus" />
@@ -87,22 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBatisPlusPluginsTest.testPage2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mybatisplus" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.MyBatisPlusPluginsTest" />
-      <option name="METHOD_NAME" value="testPage2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyBatisPlusPluginsTest.testProduct01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatisplus" />
       <extension name="coverage">
@@ -114,6 +106,22 @@
       <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
       <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.MyBatisPlusPluginsTest" />
       <option name="METHOD_NAME" value="testProduct01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusDatabaseApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus_database" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.mybatisplus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.mybatisplus" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.mybatisplus.MybatisPlusDatabaseApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,6 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisPlusDatabaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis_plus_database" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.mybatisplus.MybatisPlusDatabaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisPlusDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis_plus_database" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.mybatisplus.MybatisPlusDatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mybatisplus" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.mybatisplus.MybatisplusApplication" />
@@ -144,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MybatisPlusDatabaseApplicationTests.test" />
         <item itemvalue="JUnit.MyBatisPlusPluginsTest.test" />
         <item itemvalue="Application.FastAutoGeneratorTest" />
         <item itemvalue="JUnit.MybatisPlusEnumTest.test" />
         <item itemvalue="JUnit.MyBatisPlusPluginsTest.testProduct01" />
-        <item itemvalue="JUnit.MyBatisPlusPluginsTest.testPage2" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +186,7 @@
       <workItem from="1667113340089" duration="4306000" />
       <workItem from="1667117715239" duration="2658000" />
       <workItem from="1667136672791" duration="6016000" />
-      <workItem from="1667184687664" duration="9186000" />
+      <workItem from="1667184687664" duration="10487000" />
     </task>
     <servers />
   </component>
